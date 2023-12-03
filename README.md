@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thisismasud
+- 👋 Hi, this is Masud Parvez
 - 👀 I’m interested in Develop Software
 - 🌱 I’m currently learning MERN
 - 📫 How to reach me in: linkedin.com/in/thisismasud/
