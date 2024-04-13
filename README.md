@@ -1,6 +1,6 @@
 - 👋 Hi, this is Masud Parvez
 - 👀 I’m interested in Develop Software
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning React
 - 📫 Reach me in: linkedin.com/in/thisismasud/
 
 <!---
