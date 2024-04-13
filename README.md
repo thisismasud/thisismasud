@@ -1,5 +1,5 @@
 - 👋 Hi, this is Masud Parvez
-- 👀 I’m interested in Develop Software
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning React
 - 📫 Reach me in: linkedin.com/in/thisismasud/
 
