@@ -1,7 +1,7 @@
 - 👋 Hi, this is Masud Parvez
 - 👀 I’m interested in Develop Software
 - 🌱 I’m currently learning MERN
-- 📫 How to reach me in: linkedin.com/in/thisismasud/
+- 📫 Reach me in: linkedin.com/in/thisismasud/
 
 <!---
 thisismasud/thisismasud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
