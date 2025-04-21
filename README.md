@@ -1,5 +1,5 @@
 - 👋 Hi, this is Masud Parvez
-- 👀 I’m interested in Software Development
+- 👀 Software Developer
 - 🌱 I’m currently learning NextJS
 - 📫 Reach me in: linkedin.com/in/thisismasud/
 
