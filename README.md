@@ -1,6 +1,5 @@
 - 👋 Hi, this is Masud Parvez
 - 👀 Software Developer
-- 🌱 Currently Exploring NextJS
 - 📫 Reach me in: linkedin.com/in/thisismasud/
 
 <!---
