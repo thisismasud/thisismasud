@@ -3,7 +3,7 @@
 </p>
 
  
-<h2> 🚀 &nbsp;Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Tools and Language I Have Used and Learned</h2>
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
