@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20There!&height=100&section=header"/>
+  <img src="https://i.ibb.co.com/0RQ77h2c/1713119661221.jpg" width="100%" />
 </p>
 
+
 <p align="center">
-  <img src="https://i.ibb.co.com/0RQ77h2c/1713119661221.jpg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20There!&height=100&section=header"/>
 </p>
 
  
