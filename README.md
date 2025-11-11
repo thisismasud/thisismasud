@@ -4,9 +4,9 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20There!&height=100&section=header"/>
-</p>
+</p> -->
 
  
 <h2> 🚀 &nbsp;Tools and Language I Have Used and Learned</h2>
