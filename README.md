@@ -33,10 +33,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="45" height="45"/>  
 </p>
-<br/>
 
 
-## 📫 **_Let's connect… I don’t bite. Promise_**
+
+## 📫 **_Let's connect.. I won’t bite. Promise!_**
 
 <p align="center">
   <a href="mailto:thisismasud1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
