@@ -34,7 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="45" height="45"/>  
 </p>
 <br/>
-<br/>
 
 
 ## 📫 **_Let's connect… I don’t bite. Well, unless you send spam_**
