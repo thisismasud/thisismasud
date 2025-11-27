@@ -9,7 +9,7 @@
 </p> -->
 
  
-<h2> 🚀 &nbsp;Tools and Language I Have Used and Learned</h2>
+<h2 align="center"> 🚀 &nbsp;Tools and Language I Have Used and Learned</h2>
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
@@ -35,7 +35,7 @@
 </p>
 
 
-<h2 align="center">## 📫 **_Let's connect.. I won’t bite. Promise!_**</h2>
+<h2 align="center">📫Let's connect.. I won’t bite. Promise!</h2>
 
 
 <p align="center">
