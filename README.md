@@ -35,8 +35,8 @@
 </p>
 
 
+<h2 align="center">## 📫 **_Let's connect.. I won’t bite. Promise!_**</h2>
 
-## 📫 **_Let's connect.. I won’t bite. Promise!_**
 
 <p align="center">
   <a href="mailto:thisismasud1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
